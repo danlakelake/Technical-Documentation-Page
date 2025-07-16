@@ -1,4 +1,4 @@
 # Js Technical Documentation Page - Página de Documentación Técnica Js
 
-**Puedes ver la versión desplegada de la app aquí:**\
+🔗 **Live demo / Demo en línea:**\
 https://sprightly-elf-1754fa.netlify.app/
